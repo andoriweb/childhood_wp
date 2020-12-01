@@ -1,2 +1,2 @@
 # childhood_wp
-Сайт на WordPress
+childhood на WordPress
